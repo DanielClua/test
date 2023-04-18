@@ -6,7 +6,7 @@ A test repository for publishing my first web page is published at (https://dani
 amb Geografia.
 ## Dades/continguts
 
-Una imatge d'exemple ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Una imatge d'exemple ![alt text](celtics.jpg "One day at the TD Garden")
 
 D’on s’han tret les dades, text, fotos, etc
   - dades,
