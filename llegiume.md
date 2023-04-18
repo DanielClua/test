@@ -5,6 +5,9 @@ A test repository for publishing my first web page is published at (https://dani
  Explica **l’objectiu** de la web i la motivació per fer-la. Vinculació
 amb Geografia.
 ## Dades/continguts
+
+Una imatge d'exemple ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 D’on s’han tret les dades, text, fotos, etc
   - dades,
   - text,
